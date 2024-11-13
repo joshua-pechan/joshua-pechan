@@ -3,7 +3,7 @@
 My name is Joshua and I am a current undergrad Florida Tech student interested in cybersecurity and ai.
 
 - 🔭 I’m currently working on Chefpal, an AI-powered recipe making app.
-- 🌱 I'm also taking on other projects, coding a platformer in MASM and a game engine in C++ purely for learning purposes.
+- 🌱 I am building a game engine on my free time, check it out [here](https://github.com/JashDuck/DuckEngine).
 - 📫 How to reach me: jashduck@gmail.com
 
 <!--
