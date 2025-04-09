@@ -1,17 +1,39 @@
-Welcome to my GitHub! 👋
+# Hi there, I'm Joshua Pechan 👋
 
-I'm Joshua Pechan, a passionate Computer Science student at the Florida Institute of Technology, with a strong focus on software development, AI, and embedded systems. I’m currently working towards my Bachelor’s degree (anticipated graduation in May 2026), with a consistent Dean’s List record and a diverse set of skills in languages like C++, Python, JavaScript, Kotlin, and more.
+I'm a **passionate Computer Science student** at the Florida Institute of Technology, where I'm diving deep into software development, **AI**, and **embedded systems**. I'm on track to graduate in **May 2026** with a consistent Dean’s List record and hands-on experience across multiple programming languages like **C++**, **Python**, **JavaScript**, **Kotlin**, and more.
 
-Throughout my academic and professional journey, I've developed a variety of projects that highlight my problem-solving abilities and technical expertise:
+---
 
-Othello Game with AI: A fully playable Othello game with a graphical interface, featuring both a simple greedy AI and a more strategic Minimax-based AI opponent.
+## 🚀 What I’m Working On
 
-Chefpal: An Android app that generates custom recipes using the OpenAI API, designed to help users with ingredient exclusions (like allergens).
+- **Othello Game with AI**  
+  A Windows desktop application built in **C++** using WinAPI. It features both a simple greedy AI and a strategic opponent powered by the **Minimax algorithm** for variable difficulty, ensuring engaging and challenging gameplay.
 
-ESP8266 LED Web Server: A secure, optimized embedded web server built in C++, designed for resource-constrained environments with real-time observability features.
+- **Chefpal**  
+  An innovative Android app developed in **Kotlin**, which generates custom recipes using the **OpenAI API**. It also includes a feature for filtering out specific ingredients like allergens.
 
-In addition to coding, I have hands-on experience as a Programming Instructor at Code Ninjas, where I helped over 100 students develop game-based projects and strengthen their coding fundamentals.
+- **ESP8266 LED Web Server**  
+  A secure and optimized embedded web server designed with **C++**, **HTML**, and **JavaScript**. This project focuses on performance in resource-constrained environments with real-time observability hooks.
 
-I’m always looking to collaborate on innovative projects and am keen to contribute to the open-source community. Feel free to browse my repositories and reach out if you'd like to connect or discuss potential opportunities! 🚀
+---
 
-Let's build something great! 💻✨
+## 💡 Beyond Coding
+
+I also enjoy mentoring as a Programming Instructor at **Code Ninjas**, where I've empowered over 100 young learners to grasp programming fundamentals and game development concepts. My teaching experience has bolstered my ability to communicate complex ideas clearly and effectively.
+
+---
+
+## 🔧 Skills & Interests
+
+- **Programming Languages:** C++, Python, JavaScript, TypeScript, Java, Kotlin, C, C#
+- **Technologies:** Embedded Systems, Linux, Docker, React.js, Node.js, OpenAI API
+- **Methodologies:** Agile, Testing, Debugging
+- **Interests:** AI/ML, Cyber Security, Game Development, and Collaborative Open-Source Projects
+
+---
+
+## 🤝 Let’s Connect
+
+I love collaborating on innovative projects and contributing to the open-source community. Feel free to explore my repositories, and **don't hesitate to reach out** if you want to chat about tech, share ideas, or work on a project together!
+
+**Let’s build something great!** 💻✨
