@@ -36,4 +36,4 @@ I also enjoy mentoring as a Programming Instructor at **Code Ninjas**, where I'v
 
 I love collaborating on innovative projects and contributing to the open-source community. Feel free to explore my repositories, and **don't hesitate to reach out** if you want to chat about tech, share ideas, or work on a project together!
 
-**Let’s build something great!** 💻✨
+Email: joshpechan@outlook.com
