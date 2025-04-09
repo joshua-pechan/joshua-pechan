@@ -1,22 +1,17 @@
-## Hi there 👋
+Welcome to my GitHub! 👋
 
-My name is Joshua and I am a current undergrad Florida Tech student interested in cybersecurity and ai.
+I'm Joshua Pechan, a passionate Computer Science student at the Florida Institute of Technology, with a strong focus on software development, AI, and embedded systems. I’m currently working towards my Bachelor’s degree (anticipated graduation in May 2026), with a consistent Dean’s List record and a diverse set of skills in languages like C++, Python, JavaScript, Kotlin, and more.
 
-- 🌱 I am building a game engine on my free time, check it out [here](https://github.com/JashDuck/DuckEngine).
-- 🔭 I am also making a chrome extension to make youtube better.
-- 📫 How to reach me: joshpechan@outlook.com
+Throughout my academic and professional journey, I've developed a variety of projects that highlight my problem-solving abilities and technical expertise:
 
-<!--
-**JashDuck/JashDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Othello Game with AI: A fully playable Othello game with a graphical interface, featuring both a simple greedy AI and a more strategic Minimax-based AI opponent.
 
-Here are some ideas to get you started:
+Chefpal: An Android app that generates custom recipes using the OpenAI API, designed to help users with ingredient exclusions (like allergens).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ESP8266 LED Web Server: A secure, optimized embedded web server built in C++, designed for resource-constrained environments with real-time observability features.
+
+In addition to coding, I have hands-on experience as a Programming Instructor at Code Ninjas, where I helped over 100 students develop game-based projects and strengthen their coding fundamentals.
+
+I’m always looking to collaborate on innovative projects and am keen to contribute to the open-source community. Feel free to browse my repositories and reach out if you'd like to connect or discuss potential opportunities! 🚀
+
+Let's build something great! 💻✨
