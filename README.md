@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua Pechan 👋
+# Hi there 👋
 
 I'm a **passionate Computer Science student** at the Florida Institute of Technology, where I'm diving deep into software development, **AI**, and **embedded systems**. I'm on track to graduate in **May 2026** with a consistent Dean’s List record and hands-on experience across multiple programming languages like **C++**, **Python**, **JavaScript**, **Kotlin**, and more.
 
