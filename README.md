@@ -17,12 +17,6 @@ I'm a **passionate Computer Science student** at the Florida Institute of Techno
 
 ---
 
-## 💡 Beyond Coding
-
-I also enjoy mentoring as a Programming Instructor at **Code Ninjas**, where I've empowered over 100 young learners to grasp programming fundamentals and game development concepts. My teaching experience has bolstered my ability to communicate complex ideas clearly and effectively.
-
----
-
 ## 🔧 Skills & Interests
 
 - **Programming Languages:** C++, Python, JavaScript, TypeScript, Java, Kotlin, C, C#
