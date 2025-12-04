@@ -1,11 +1,9 @@
 # Hi there 👋
 
-I'm a **passionate Computer Science student** at the Florida Institute of Technology, where I'm diving deep into software development, **AI**, and **embedded systems**. I'm on track to graduate in **May 2026** with a consistent Dean’s List record and hands-on experience across multiple programming languages like **C++**, **Python**, **JavaScript**, **Kotlin**, and more.
+I am currently a Computer Science student at the Florida Institute of Technology. I will be graduating in May 2026 with a consistent Dean’s List record and hands-on experience across multiple programming languages, platforms, and libraries such as **C++**, **Python**, **TypeScript**, **Kotlin**, **Amazon services (aws, amplify, dynamoDB, s3)**
 
 ---
-
-## 🤝 Let’s Connect
-
-I love collaborating on innovative projects and contributing to the open-source community. Feel free to explore my repositories, and **don't hesitate to reach out** if you want to chat about tech, share ideas, or work on a project together!
+# Current project
+While working at my current internship I am working on a crm that will allow for a 50% increase in productivity and will help more than 100+ users.
 
 Email: joshua@pechan.us
