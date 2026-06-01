@@ -1,9 +1,17 @@
 # Hi there 👋
 
-I am currently a Computer Science student at the Florida Institute of Technology. I will be graduating in May 2026 with a consistent Dean’s List record and hands-on experience across multiple programming languages, platforms, and libraries such as **C++**, **Python**, **TypeScript**, **Kotlin**, **Amazon services (aws, amplify, dynamoDB, s3)**
+I recently graduated from Florida Institute of Technology with a B.S. in Computer Science.
 
 ---
-# Current project
-While working at my current internship I am working on a crm that will allow for a 50% increase in productivity and will help more than 100+ users.
 
-Email: joshua@pechan.us
+## Current Projects
+
+### CRM Platform
+
+As a Software Engineer, I am developing a CRM platform designed to increase productivity by 50% while supporting more than 100 users.
+
+### Password Manager
+
+Developing a self-hosted password manager focused on security, privacy, and device-based access control. Credentials are encrypted and stored locally, with the server running only on the user's machine.
+
+📫 Email: [joshua@pechan.us](mailto:joshua@pechan.us)
