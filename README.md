@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I recently graduated from Florida Institute of Technology with a B.S. in Computer Science.
+I recently graduated from Florida Institute of Technology with a B.S. in Computer Science and am currently seeking contract or full-time opportunities in software engineering, AI, and machine learning.
 
 ---
 
@@ -12,6 +12,6 @@ As a Software Engineer, I am developing a CRM platform designed to increase prod
 
 ### Password Manager
 
-Developing a self-hosted password manager focused on security, privacy, and device-based access control. Credentials are encrypted and stored locally, with the server running only on the user's machine.
+Developing a self-hosted password manager focused on security, privacy, and device-based access control. Credentials are encrypted and stored locally, with the server running only on authorized devices.
 
 📫 Email: [joshua@pechan.us](mailto:joshua@pechan.us)
